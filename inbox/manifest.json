@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T13:05:01-0600",
+ "ts": "2026-11-25T13:10:01-0600",
  "files": [
   "horror_status.json",
   "msi_events.jsonl",
@@ -10,7 +10,7 @@
   "status_msi.json"
  ],
  "sizes": {
-  "msi_heartbeat_buffer.json": 1044,
+  "msi_heartbeat_buffer.json": 1048,
   "msi_supervisor_events_buffer.jsonl": 31945,
   "msi_runtime_events.jsonl": 57508,
   "msi_events.jsonl": 65262,
