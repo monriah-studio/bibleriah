@@ -1,0 +1,22 @@
+{
+ "ts": "2026-11-25T11:34:00-0600",
+ "files": [
+  "horror_status.json",
+  "msi_events.jsonl",
+  "msi_heartbeat_buffer.json",
+  "msi_runtime_events.jsonl",
+  "msi_supervisor_events_buffer.jsonl",
+  "playbook_msi.json",
+  "status_msi.json"
+ ],
+ "sizes": {
+  "msi_heartbeat_buffer.json": 1030,
+  "msi_supervisor_events_buffer.jsonl": 28988,
+  "msi_runtime_events.jsonl": 54551,
+  "msi_events.jsonl": 62104,
+  "playbook_msi.json": 219141,
+  "status_msi.json": 1423,
+  "horror_status.json": 363
+ },
+ "branch": "msi-inbox"
+}
