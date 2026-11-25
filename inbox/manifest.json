@@ -1,5 +1,5 @@
 {
- "ts": "2026-11-25T13:10:01-0600",
+ "ts": "2026-11-25T13:15:02-0600",
  "files": [
   "horror_status.json",
   "msi_events.jsonl",
@@ -14,7 +14,7 @@
   "msi_supervisor_events_buffer.jsonl": 31945,
   "msi_runtime_events.jsonl": 57508,
   "msi_events.jsonl": 65262,
-  "playbook_msi.json": 219698,
+  "playbook_msi.json": 219824,
   "status_msi.json": 16726,
   "horror_status.json": 512
  },
