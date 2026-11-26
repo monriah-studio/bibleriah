@@ -1,7 +1,7 @@
 {
- "ts": "2026-11-26T15:00:02-0600",
- "seq": 308,
- "payload_hash": "ed2931fc05614e2df556edc033bee2bba21b0b66991b402632dbedd6c6452d82",
+ "ts": "2026-11-26T15:05:02-0600",
+ "seq": 309,
+ "payload_hash": "92837d9fe12ef4ec452ec698a0050b4b44de23ac04597d38529a865086c49e5a",
  "files": [
   "horror_status.json",
   "msi_events.jsonl",
@@ -13,11 +13,11 @@
  ],
  "sizes": {
   "msi_heartbeat_buffer.json": 1041,
-  "msi_supervisor_events_buffer.jsonl": 48146,
-  "msi_runtime_events.jsonl": 73709,
-  "msi_events.jsonl": 84185,
+  "msi_supervisor_events_buffer.jsonl": 48361,
+  "msi_runtime_events.jsonl": 73924,
+  "msi_events.jsonl": 84602,
   "playbook_msi.json": 221800,
-  "status_msi.json": 1092,
+  "status_msi.json": 1729,
   "horror_status.json": 489
  },
  "branch": "msi-inbox",
