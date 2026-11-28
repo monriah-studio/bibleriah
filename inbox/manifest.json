@@ -1,7 +1,7 @@
 {
- "ts": "2026-11-27T20:15:02-0600",
- "seq": 658,
- "payload_hash": "7d74807c8d51b20fa00d34fa7e54836ef93eec6b3b29a87a067710e7074acf9e",
+ "ts": "2026-11-27T20:20:02-0600",
+ "seq": 659,
+ "payload_hash": "bebdfe22b1f5d610bf4f0a08b25ab9cdc3edcb5100b6b942446c62fc9bf30f69",
  "files": [
   "horror_status.json",
   "msi_events.jsonl",
